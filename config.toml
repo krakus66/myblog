@@ -1,0 +1,4 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "Sunday Reflections Year B"
+theme = "pickles"
