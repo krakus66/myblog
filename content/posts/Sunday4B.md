@@ -1,7 +1,6 @@
 ---
 title: "Sunday4B"
 date: 2021-02-05T12:01:51+08:00
-thumbnail: "path/thumbnail.jpg"
 draft: true
 ---
 The matter of authority
